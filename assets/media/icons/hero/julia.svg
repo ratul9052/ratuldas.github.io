@@ -1,1 +1,7 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Julia</title><path d="M11.138 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zm6.431-11.138a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0zM24 17.569a5.569 5.569 0 1 1-11.138 0 5.569 5.569 0 1 1 11.138 0z"/></svg>
+<div style="display: inline-flex; align-items: center; color: currentColor;">
+    <svg viewBox="0 0 128 128" style="width: 64px; height: 64px; margin-right: 8px;">
+        <circle cx="29.1" cy="94.2" r="29.1" fill="currentColor"></circle>
+        <circle cx="98.9" cy="94.2" r="29.1" fill="currentColor"></circle>
+        <circle cx="64" cy="33.8" r="29.1" fill="currentColor"></circle>
+    </svg>
+</div>

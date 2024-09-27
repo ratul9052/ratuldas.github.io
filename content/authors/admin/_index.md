@@ -122,7 +122,7 @@ skills:
         description: ''
         percent: 100
         icon: language-c
-      - name: C++
+      - name: c++
         description: ''
         percent: 40
         icon: language-cpp
