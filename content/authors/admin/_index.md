@@ -10,8 +10,8 @@ first_name: Ratul
 last_name: Das
 
 # Status emoji
-#status:
- # icon: ☕️
+status:
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Assistent
+role: Former Research Assistent
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
