@@ -5,12 +5,28 @@
     <link>http://localhost:1313/tags/python/</link>
       <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Python</title>
       <link>http://localhost:1313/tags/python/</link>
     </image>
+    
+    <item>
+      <title>1D Poisson Equation Solver using Finite Element Method (FEM)</title>
+      <link>http://localhost:1313/project/1d-poisson-equation-fem/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/1d-poisson-equation-fem/</guid>
+      <description>&lt;p&gt;This project contains a Python implementation of the Finite Element Method (FEM) to solve the 1D Poisson equation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>1D Transient Heat Conduction FDM</title>
+      <link>http://localhost:1313/project/1d-transient-heat-conduction-fdm/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/1d-transient-heat-conduction-fdm/</guid>
+      <description>&lt;p&gt;This project simulates the 1D transient heat conduction in a rod using the explicit Finite Difference Method (FDM). The code is implemented in Python and visualizes the temperature distribution over space and time using three different plots- a 2D line plot, a heatmap, and a 3D surface plot. The user can choose an initial condition for the temperature distribution, and the boundary conditions are fixed at zero for both ends of the rod.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Learn Python</title>

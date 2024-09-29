@@ -244,6 +244,6 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About
 
 Ratul Das is a mechanical engineering graduate with a strong focus on computational science and simulation. His research interests span fluid mechanics, heat transfer, and numerical methods, including CFD, FEA, and physics-informed neural networks. Ratul has worked on projects involving heat exchanger simulations and machine learning applications in object detection. He is also passionate about merging his technical skills with creativity, balancing his love for sketching, playing the flute, and cajon drums. Currently, he is developing a software tool to showcase his computational science expertise.
