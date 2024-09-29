@@ -2,8 +2,8 @@
 title: 1D Transient Heat Conduction FDM
 date: 2024-09-28
 external_link: https://github.com/ratul9052/Heat-Transfer/tree/2738ce6c09d81e1898677632be13248714b56e8b/1D%20Transient%20Heat%20Conduction%20FDM
-# tags:
-#   - Hugo
+tags:
+  - Python
 #   - Wowchemy
 #   - Markdown
 ---

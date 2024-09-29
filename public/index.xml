@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>1D Poisson Equation Solver using Finite Element Method (FEM)</title>
+      <link>http://localhost:1313/project/1d-poisson-equation-fem/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/1d-poisson-equation-fem/</guid>
+      <description>&lt;p&gt;This project contains a Python implementation of the Finite Element Method (FEM) to solve the 1D Poisson equation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>1D Transient Heat Conduction FDM</title>
       <link>http://localhost:1313/project/1d-transient-heat-conduction-fdm/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
@@ -160,14 +168,6 @@
 &lt;p&gt;Released under the 
  license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -307,7 +307,7 @@
 
 
 
-&lt;div id=&#34;chart-596813427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-792518643&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -325,7 +325,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-596813427&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-792518643&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
