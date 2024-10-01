@@ -45,6 +45,7 @@
       "script",
       "section",
       "source",
+      "spa",
       "span",
       "strong",
       "style",
@@ -198,6 +199,7 @@
       "flex",
       "flex-auto",
       "flex-col",
+      "flex-col-reverse",
       "flex-none",
       "flex-nowrap",
       "flex-row",
@@ -555,9 +557,8 @@
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
       "TableOfContents",
       "about",
-      "about-me",
       "callouts",
-      "chart-632419857",
+      "chart-975183426",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -567,7 +568,6 @@
       "ecosystem",
       "features",
       "get-started",
-      "heading",
       "hide-button",
       "highlighting",
       "ideation",
@@ -579,6 +579,7 @@
       "mdi-language-python",
       "mindmaps",
       "moon",
+      "muisc_art",
       "nav-menu",
       "nav-toggle",
       "overview",
@@ -609,7 +610,8 @@
       "themes",
       "todo-lists",
       "top",
-      "video"
+      "video",
+      "videos"
     ]
   }
 }

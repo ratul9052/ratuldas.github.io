@@ -130,6 +130,7 @@ skills:
         description: ''
         percent: 40
         icon: julia
+      
 
   
   - name: ML
@@ -153,6 +154,10 @@ skills:
         description: ''
         percent: 80
         icon: numpy
+      - name: null
+        description: ""
+        percent: 
+        icon: ""
   
   - name: CFD
     color: '#eeac02'
