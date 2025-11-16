@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FDM | Ratul Das</title>
-    <link>http://localhost:40435/tags/fdm/</link>
-      <atom:link href="http://localhost:40435/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/fdm/</link>
+      <atom:link href="http://localhost:1313/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
     <description>FDM</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>FDM</title>
-      <link>http://localhost:40435/tags/fdm/</link>
+      <link>http://localhost:1313/tags/fdm/</link>
     </image>
     
     <item>
       <title>Classic PDEs.</title>
-      <link>http://localhost:40435/project/clssic-pde/</link>
+      <link>http://localhost:1313/project/clssic-pde/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40435/project/clssic-pde/</guid>
+      <guid>http://localhost:1313/project/clssic-pde/</guid>
       <description>&lt;p&gt;Classic PDEs, such as heat, wave, poisson, laplace etc, were solved numerically to visualize the soluation.&lt;/p&gt;</description>
     </item>
     

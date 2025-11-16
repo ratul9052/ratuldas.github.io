@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-Driven Modeling | Ratul Das</title>
-    <link>http://localhost:40435/tags/data-driven-modeling/</link>
-      <atom:link href="http://localhost:40435/tags/data-driven-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/data-driven-modeling/</link>
+      <atom:link href="http://localhost:1313/tags/data-driven-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Data-Driven Modeling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>Data-Driven Modeling</title>
-      <link>http://localhost:40435/tags/data-driven-modeling/</link>
+      <link>http://localhost:1313/tags/data-driven-modeling/</link>
     </image>
     
     <item>
       <title>Physics-Informed Neural Network (PINN) to model Mass-Spring-Damper System.</title>
-      <link>http://localhost:40435/project/basic-pinn/</link>
-      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40435/project/basic-pinn/</guid>
+      <link>http://localhost:1313/project/basic-pinn/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/basic-pinn/</guid>
       <description>&lt;p&gt;Modified some parameters to understand how the Physics-Informed Neural Network (PINN) behaves and added an animation function to visualize how the predictions evolve during training.&lt;/p&gt;</description>
     </item>
     

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art | Ratul Das</title>
-    <link>http://localhost:40435/tags/art/</link>
-      <atom:link href="http://localhost:40435/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/art/</link>
+      <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>Art</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>Art</title>
-      <link>http://localhost:40435/tags/art/</link>
+      <link>http://localhost:1313/tags/art/</link>
     </image>
     
     <item>
       <title>Sketch</title>
-      <link>http://localhost:40435/music_art/sketch/</link>
+      <link>http://localhost:1313/music_art/sketch/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40435/music_art/sketch/</guid>
+      <guid>http://localhost:1313/music_art/sketch/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; gap: 20px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/20200421_144325.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/20200504_151056.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/20201002_095821.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/20210408_223757.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/20211118_015800.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:40435/images/sketches/random.png&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/20200421_144325.jpg&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/20200504_151056.jpg&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/20201002_095821.jpg&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/20210408_223757.jpg&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/20211118_015800.jpg&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/sketches/random.png&#34;&gt;
 &lt;/div&gt;
 </description>
     </item>

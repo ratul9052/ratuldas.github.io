@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muisc | Ratul Das</title>
-    <link>http://localhost:40435/tags/muisc/</link>
-      <atom:link href="http://localhost:40435/tags/muisc/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/muisc/</link>
+      <atom:link href="http://localhost:1313/tags/muisc/index.xml" rel="self" type="application/rss+xml" />
     <description>Muisc</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>Muisc</title>
-      <link>http://localhost:40435/tags/muisc/</link>
+      <link>http://localhost:1313/tags/muisc/</link>
     </image>
     
     <item>
       <title>Cajon</title>
-      <link>http://localhost:40435/music_art/cajon/</link>
+      <link>http://localhost:1313/music_art/cajon/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40435/music_art/cajon/</guid>
+      <guid>http://localhost:1313/music_art/cajon/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&amp;lsquo;Summer of 69&amp;rsquo; by Bryan Adams&lt;/li&gt;
 &lt;/ol&gt;
