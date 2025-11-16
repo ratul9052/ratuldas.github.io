@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scipy | Python | Ratul Das</title>
+    <link>http://localhost:40435/tags/scipy--python/</link>
+      <atom:link href="http://localhost:40435/tags/scipy--python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scipy | Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <title>Scipy | Python</title>
+      <link>http://localhost:40435/tags/scipy--python/</link>
+    </image>
+    
+    <item>
+      <title>Derivative Matrix Operator for 2D Laplace Equation via Kronecker Product.</title>
+      <link>http://localhost:40435/project/derivative-matrix/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/derivative-matrix/</guid>
+      <description>&lt;p&gt;Built a sparse matrix-based derivative operator using Kronecker product formulation and incorporated
+Dirichlet boundary conditions for the finite difference method to solve the 2D Laplace equation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

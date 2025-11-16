@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PINN | Ratul Das</title>
+    <link>http://localhost:1313/tags/pinn/</link>
+      <atom:link href="http://localhost:1313/tags/pinn/index.xml" rel="self" type="application/rss+xml" />
+    <description>PINN</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
+      <title>PINN</title>
+      <link>http://localhost:1313/tags/pinn/</link>
+    </image>
+    
+    <item>
+      <title>Physics-Informed Neural Network (PINN) to model Mass Spring Damper System.</title>
+      <link>http://localhost:1313/project/basic-pinn/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/basic-pinn/</guid>
+      <description>&lt;p&gt;This repository contains a modified version of a Physics-Informed Neural Network (PINN) training code originally created by &lt;a href=&#34;https://github.com/benmoseley&#34;&gt;Ben Moseley&lt;/a&gt;. I modified some parameters to understand how the model behaves and added an animation function to visualize how the predictions evolve during training.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

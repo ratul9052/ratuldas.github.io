@@ -32,29 +32,29 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        I am a research enthusiast focused on computational science and engineering. My undergraduate thesis involved a CFD analysis of a flat fin tube heat exchanger, where we proposed a novel design to reduce fan power consumption. Additionally, I served as a research assistant on a project where we developed a boat equipped with an object detection model for collecting water surface waste, alongside conducting fluid-structure interaction analysis.
+        My undergraduate thesis and later projects focused on fluid flow and heat transfer. I worked on improving plain fin compact heat exchangers, analyzing solar air heaters with tailored rib geometries, and studying the aerodynamic influence of leading-edge flap angles on NACA 4412 airfoils at low Reynolds numbers. Using ANSYS Fluent and ICEM CFD, I evaluated how geometric and operating parameters shape thermal, hydraulic, and aerodynamic behavior.
 
-        I am passionate about exploring the intersection of science and technology and how they contribute to innovative solutions in engineering.
+        As a research assistant, I helped develop an autonomous river-waste-collection boat. I designed and built the system using PVC and steel components, and trained a quantized SSD MobileNet V2 FPNLite model that runs in real time on a Raspberry Pi to detect floating debris.
 
-        Please feel free to reach out for collaboration opportunities!
+        Although much of my work uses commercial software, my motivation comes from the mathematics and algorithms behind simulations. I see scientific computing as a way to model and understand complex systems, from micro-scale flows to large engineered and natural environments. My long-term goal is to apply these computational tools broadly, using them to explore and explain how the physical world behaves.
 
 
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -65,7 +65,21 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  # - block: collection
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      # text: "Check out my research projects below"
+      filters:
+        folders:
+          - project
+        featured_only: true
+      count: 6
+      pagination: false      
+    design:
+      view: article-grid
+      columns: 3
+  # - block: collection                 
   #   id: talks
   #   content:
   #     title: Recent & Upcoming Talks

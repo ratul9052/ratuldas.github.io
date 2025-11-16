@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | Ratul Das</title>
+    <link>http://localhost:40435/tags/cfd/</link>
+      <atom:link href="http://localhost:40435/tags/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <title>CFD</title>
+      <link>http://localhost:40435/tags/cfd/</link>
+    </image>
+    
+    <item>
+      <title>Aerodynamic Effects of Leading-Edge Flap Angle on NACA 4412 Airfoil Performance at Low Reynolds Numbers: A CFD Investigation</title>
+      <link>http://localhost:40435/publication/2-airfoil-flap-angle/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/publication/2-airfoil-flap-angle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Investigation of the Hydraulic and Thermal Performance of Plain Fin Compact Heat Exchangers with Modified Flat Tubes</title>
+      <link>http://localhost:40435/publication/1-heat-exchanger/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/publication/1-heat-exchanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermohydraulic Performance Optimization of Solar Air Heater via Tailored Inverted L-Shaped Rib: A CFD Investigation</title>
+      <link>http://localhost:40435/publication/3-solar-air-heater/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/publication/3-solar-air-heater/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

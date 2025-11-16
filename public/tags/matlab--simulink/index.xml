@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matlab | Simulink | Ratul Das</title>
+    <link>http://localhost:40435/tags/matlab--simulink/</link>
+      <atom:link href="http://localhost:40435/tags/matlab--simulink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matlab | Simulink</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <title>Matlab | Simulink</title>
+      <link>http://localhost:40435/tags/matlab--simulink/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear 6-DOF RCAM Flight Dynamics Mathematical Model.</title>
+      <link>http://localhost:40435/project/flight-sim/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/flight-sim/</guid>
+      <description>&lt;p&gt;Implemented the mathematical equations of a nonlinear 6-DOF rigid-body aircraft model (RCAM) in MATLAB functions and integrated them into Simulink to run time-domain simulations with control inputs and
+dynamic state outputs.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | Python | Ratul Das</title>
+    <link>http://localhost:40435/tags/cfd--python/</link>
+      <atom:link href="http://localhost:40435/tags/cfd--python/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD | Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <title>CFD | Python</title>
+      <link>http://localhost:40435/tags/cfd--python/</link>
+    </image>
+    
+    <item>
+      <title>Stepwise Finite Difference Implementation of Convection–Diffusion Systems.</title>
+      <link>http://localhost:40435/project/python-cfd/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/python-cfd/</guid>
+      <description>&lt;p&gt;This project implements a suite of numerical solvers for 1D and 2D convection, diffusion, and convection–diffusion equations, including linear, nonlinear, and Burgers’ formulations. Using finite-difference methods, it explores stability, discretization, and numerical behavior across progressively complex PDEs, forming a foundational step toward solving the full Navier–Stokes equations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Validation of lid-driven cavity and channel flow with experimental and analytical soluation at low Reynolds numbers.</title>
+      <link>http://localhost:40435/project/cavity-and-channel/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/cavity-and-channel/</guid>
+      <description>&lt;p&gt;This project implements a 2D solver for incompressible Navier-Stokes equations using the finite difference method (FDM) and the pressure projection method. Two fundamental flow configurations are studied:Lid-driven cavity flow and Channel flow. The aim is to simulate these classical benchmark problems and visualize the evolution of the velocity and pressure fields. The solver is written in Python.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

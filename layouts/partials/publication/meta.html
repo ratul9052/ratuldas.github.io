@@ -1,0 +1,10 @@
+{{/* Custom publication meta — hardcoded reading time */}}
+<div class="publication-meta">
+    {{ with .Params.authors }}
+    <span class="authors">{{ range $index, $author := . }}{{ if $index }}, {{ end }}{{ $author }}{{ end }}</span>
+    {{ end }}
+    {{ with .Date }}
+    <span class="pub-date">{{ .Format "Jan 2, 2006" }}</span>
+    {{ end }}
+    <span class="reading-time">10 min read</span>
+</div>

@@ -2,38 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ratul Das</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:40435/project/</link>
+      <atom:link href="http://localhost:40435/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>http://localhost:40435/project/</link>
     </image>
     
     <item>
+      <title>Physics-Informed Neural Network (PINN) to model Mass-Spring-Damper System.</title>
+      <link>http://localhost:40435/project/basic-pinn/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/basic-pinn/</guid>
+      <description>&lt;p&gt;Modified some parameters to understand how the Physics-Informed Neural Network (PINN) behaves and added an animation function to visualize how the predictions evolve during training.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear 6-DOF RCAM Flight Dynamics Mathematical Model.</title>
+      <link>http://localhost:40435/project/flight-sim/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/flight-sim/</guid>
+      <description>&lt;p&gt;Implemented the mathematical equations of a nonlinear 6-DOF rigid-body aircraft model (RCAM) in MATLAB functions and integrated them into Simulink to run time-domain simulations with control inputs and
+dynamic state outputs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Derivative Matrix Operator for 2D Laplace Equation via Kronecker Product.</title>
+      <link>http://localhost:40435/project/derivative-matrix/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/derivative-matrix/</guid>
+      <description>&lt;p&gt;Built a sparse matrix-based derivative operator using Kronecker product formulation and incorporated
+Dirichlet boundary conditions for the finite difference method to solve the 2D Laplace equation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stepwise Finite Difference Implementation of Convection–Diffusion Systems.</title>
+      <link>http://localhost:40435/project/python-cfd/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/python-cfd/</guid>
+      <description>&lt;p&gt;This project implements a suite of numerical solvers for 1D and 2D convection, diffusion, and convection–diffusion equations, including linear, nonlinear, and Burgers’ formulations. Using finite-difference methods, it explores stability, discretization, and numerical behavior across progressively complex PDEs, forming a foundational step toward solving the full Navier–Stokes equations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Validation of lid-driven cavity and channel flow with experimental and analytical soluation at low Reynolds numbers.</title>
+      <link>http://localhost:40435/project/cavity-and-channel/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/cavity-and-channel/</guid>
+      <description>&lt;p&gt;This project implements a 2D solver for incompressible Navier-Stokes equations using the finite difference method (FDM) and the pressure projection method. Two fundamental flow configurations are studied:Lid-driven cavity flow and Channel flow. The aim is to simulate these classical benchmark problems and visualize the evolution of the velocity and pressure fields. The solver is written in Python.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Classic PDEs.</title>
+      <link>http://localhost:40435/project/clssic-pde/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/clssic-pde/</guid>
+      <description>&lt;p&gt;Classic PDEs, such as heat, wave, poisson, laplace etc, were solved numerically to visualize the soluation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>1D Poisson Equation Solver using Finite Element Method (FEM)</title>
-      <link>http://localhost:1313/project/1d-poisson-equation-fem/</link>
+      <link>http://localhost:40435/project/1d-poisson-equation-fem/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/1d-poisson-equation-fem/</guid>
+      <guid>http://localhost:40435/project/1d-poisson-equation-fem/</guid>
       <description>&lt;p&gt;This project contains a Python implementation of the Finite Element Method (FEM) to solve the 1D Poisson equation&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>1D Transient Heat Conduction FDM</title>
-      <link>http://localhost:1313/project/1d-transient-heat-conduction-fdm/</link>
+      <title>1D Transient Heat Conduction FDM.</title>
+      <link>http://localhost:40435/project/1d-transient-heat-conduction-fdm/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/1d-transient-heat-conduction-fdm/</guid>
+      <guid>http://localhost:40435/project/1d-transient-heat-conduction-fdm/</guid>
       <description>&lt;p&gt;This project simulates the 1D transient heat conduction in a rod using the explicit Finite Difference Method (FDM). The code is implemented in Python and visualizes the temperature distribution over space and time using three different plots- a 2D line plot, a heatmap, and a 3D surface plot. The user can choose an initial condition for the temperature distribution, and the boundary conditions are fixed at zero for both ends of the rod.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
   </channel>

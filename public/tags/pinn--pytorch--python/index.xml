@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PINN | Pytorch | Python | Ratul Das</title>
+    <link>http://localhost:40435/tags/pinn--pytorch--python/</link>
+      <atom:link href="http://localhost:40435/tags/pinn--pytorch--python/index.xml" rel="self" type="application/rss+xml" />
+    <description>PINN | Pytorch | Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:40435/media/icon_hu18118674150301674827.png</url>
+      <title>PINN | Pytorch | Python</title>
+      <link>http://localhost:40435/tags/pinn--pytorch--python/</link>
+    </image>
+    
+    <item>
+      <title>Physics-Informed Neural Network (PINN) to model Mass-Spring-Damper System.</title>
+      <link>http://localhost:40435/project/basic-pinn/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40435/project/basic-pinn/</guid>
+      <description>&lt;p&gt;Modified some parameters to understand how the Physics-Informed Neural Network (PINN) behaves and added an animation function to visualize how the predictions evolve during training.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
