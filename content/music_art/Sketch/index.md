@@ -9,12 +9,12 @@ tags:
 
 ---
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <img src="/static//images/sketches/20201002_095821.jpg">
-  <img src="/static/images/sketches/20200504_151056.jpg">
-  <img src="/static/images/sketches/20200421_144325.jpg">
-  <img src="/static/images/sketches/20211118_015800.jpg">
-  <img src="/static/images/sketches/20210408_223757.jpg">
-  <img src="/static/images/sketches/random.png">
+  <img src="/images/sketches/20201002_095821.jpg">
+  <img src="/images/sketches/20200504_151056.jpg">
+  <img src="/images/sketches/20200421_144325.jpg">
+  <img src="/images/sketches/20211118_015800.jpg">
+  <img src="/images/sketches/20210408_223757.jpg">
+  <img src="/images/sketches/random.png">
 </div>
 
 
