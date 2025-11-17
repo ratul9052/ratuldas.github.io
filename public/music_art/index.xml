@@ -104,12 +104,12 @@
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music_art/sketch/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; gap: 20px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/20200421_144325.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/20200504_151056.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/20201002_095821.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/20210408_223757.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/20211118_015800.jpg&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/sketches/random.png&#34;&gt;
+  &lt;img src=&#34;images/sketches/20200421_144325.jpg&#34;&gt;
+  &lt;img src=&#34;images/sketches/20200504_151056.jpg&#34;&gt;
+  &lt;img src=&#34;images/sketches/20201002_095821.jpg&#34;&gt;
+  &lt;img src=&#34;images/sketches/20210408_223757.jpg&#34;&gt;
+  &lt;img src=&#34;images/sketches/20211118_015800.jpg&#34;&gt;
+  &lt;img src=&#34;images/sketches/random.png&#34;&gt;
 &lt;/div&gt;
 </description>
     </item>
