@@ -90,27 +90,67 @@ work:
     date_start: 2022-06-05
     date_end: 2023-07-17
     summary: |
-      Responsibilities include:
-      - waste image data Collection
-      - Trianing Object detection model.
-      - Fluid-Structure Analysis 
+      - Collected and preprocessed image data of floating waste.
+      - Designed and a small double-hull catamaran prototype for waste collection.
+      - Trained and optimized an SSD MobileNet Lite model for deployment on Raspberry Pi.
   - position: Industrial Trainee
     company_name: Shahjalal Fertilizer Company Limited (SFCL), Sylhet
     company_url: ''
     company_logo: ''
     date_start: 2023-02-27
     date_end: 2023-03-15
-    # summary: |2-
-  #     Responsibilities include:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      - **MTS – Mechanical**
+        - Gained hands-on exposure to **machine maintenance**, working around steam and gas turbines, compressors, pumps, fans, and blowers.
+        - Observed and assisted in **plant maintenance** activities involving valves, heat exchangers, pipelines, vessels, and boilers.
+        - Learned practical workshop processes in the **Central Maintenance Workshop**, including lathe operation, milling, shaping, welding, and fabrication.
+
+      - **MTS – EIP**
+        - Developed foundational understanding of **instrument maintenance**, including temperature, pressure, and level transmitters, flow meters, PLC systems, and SCADA interfaces.
+        - Observed troubleshooting and calibration procedures performed by senior technicians.
+
+      - **HSET**
+        - Gained awareness of industrial **health, safety, environment, and training** protocols through active participation in safety briefings and field inspections.
   - position: Industrial Trainee
     company_name: United Energy Limited, Sylhet
     company_url: ''
     company_logo: ''
     date_start: 2022-08-15
     date_end: 2022-08-16  
+    summary: |
+      - Gained foundational knowledge of gas engine operations and power generation systems.
+      - Observed and learned real-time plant operations including fuel processing, engine synchronization, and load management.
+      - Assisted with operational tasks to gain practical hands-on experience in plant workflow.
+
+  - position: Organizing Secretary (Volunteering)
+    company_name: Shikorh (Campus Cultural Organization)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-04-18
+    date_end: 2023-03-25
+    summary: |
+      - Coordinated cultural programs and maintained inter-departmental communication.
+      - Organized new member recruitment and onboarding activities.
+
+  - position: In-Charge, School of Engineering Design (Volunteering)
+    company_name: Kaizen SUST (Campus Technical Organization)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-15
+    date_end: 2022-05-12
+    summary: |
+      - Organized workshops on 3D modeling using SolidWorks.
+      - Facilitated hands-on learning and skill development for participants.
+
+  - position: Illumination Coordinator (Volunteering)
+    company_name: Shikorh (Campus Cultural Organization)
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-15
+    date_end: 2022-03-16
+    summary: |
+      - Provided consultation and design for stage lighting in theater, cultural programs, and concerts.
+      - Managed additional lighting and sound requirements by coordinating with external providers when needed.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -208,13 +248,9 @@ skills:
 
 languages:
   - name: Bangla
-    percent: 100
   - name: English
-    percent: 50
   - name: Hindi
-    percent: 25
   - name:  urdu
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

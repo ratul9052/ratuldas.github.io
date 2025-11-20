@@ -5,7 +5,7 @@
     <link>http://localhost:1313/music_art/</link>
       <atom:link href="http://localhost:1313/music_art/index.xml" rel="self" type="application/rss+xml" />
     <description>Music &amp; Art</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>Music &amp; Art</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Cajon</title>
       <link>http://localhost:1313/music_art/cajon/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music_art/cajon/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&amp;lsquo;Summer of 69&amp;rsquo; by Bryan Adams&lt;/li&gt;
@@ -89,7 +89,7 @@
     <item>
       <title>Flute</title>
       <link>http://localhost:1313/music_art/flute/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music_art/flute/</guid>
       <description>&lt;!-- ## My Flute Performance  --&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1aUExrLqFVU8Fyaxq1DD6jdz0Ws4j-ypc/preview&#34; width=&#34;640&#34; height=&#34;360&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
@@ -101,7 +101,7 @@
     <item>
       <title>Sketch</title>
       <link>http://localhost:1313/music_art/sketch/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music_art/sketch/</guid>
       <description>&lt;!-- &lt;iframe src=&#34;https://drive.google.com/file/d/1yx5MiJDdkKztTPV8xOUzd4103pQSeiXD/preview&#34; 
         width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;

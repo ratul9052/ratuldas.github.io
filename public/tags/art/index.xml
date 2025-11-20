@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/art/</link>
       <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <description>Art</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu18118674150301674827.png</url>
       <title>Art</title>
@@ -15,46 +15,38 @@
     <item>
       <title>Sketch</title>
       <link>http://localhost:1313/music_art/sketch/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music_art/sketch/</guid>
-      <description>&lt;img src=&#34;https://drive.google.com/uc?export=view&amp;id=1yx5MiJDdkKztTPV8xOUzd4103pQSeiXD&#34;&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/20201002_095821.jpg&#34;
-    alt=&#34;Sketch 1&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 1&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
+      <description>&lt;!-- &lt;iframe src=&#34;https://drive.google.com/file/d/1yx5MiJDdkKztTPV8xOUzd4103pQSeiXD/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/20200504_151056.jpg&#34;
-    alt=&#34;Sketch 2&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 2&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/20200421_144325.jpg&#34;
-    alt=&#34;Sketch 3&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 3&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1z5Yk_4sBsW06XalvtLoHt_3AzaZ81awk/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/20211118_015800.jpg&#34;
-    alt=&#34;Sketch 4&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 4&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/20210408_223757.jpg&#34;
-    alt=&#34;Sketch 5&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 5&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1EvqJy-rubzXP-3jFIIrxPMSInPGwr07C/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/sketches/random.png&#34;
-    alt=&#34;Sketch 6&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Sketch 6&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
 
-</description>
+&lt;iframe src=&#34;https://drive.google.com/file/d/1Vi__12fdaeszd5INw7DtXIj6TfB5CZip/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe src=&#34;https://drive.google.com/file/d/1Nle4ogFRDm5578UE1zQtjrzMyt8d4cXm/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe src=&#34;https://drive.google.com/file/d/13y43zbZIk3_LzANVoJ-NXr8SMSn6u66w/preview&#34; 
+        width=&#34;640&#34; height=&#34;480&#34; allowfullscreen&gt;&lt;/iframe&gt; --&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;&#34;&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1yx5MiJDdkKztTPV8xOUzd4103pQSeiXD/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1z5Yk_4sBsW06XalvtLoHt_3AzaZ81awk/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1EvqJy-rubzXP-3jFIIrxPMSInPGwr07C/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1Vi__12fdaeszd5INw7DtXIj6TfB5CZip/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1Nle4ogFRDm5578UE1zQtjrzMyt8d4cXm/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/13y43zbZIk3_LzANVoJ-NXr8SMSn6u66w/preview&#34; width=&#34;200&#34; height=&#34;150&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
