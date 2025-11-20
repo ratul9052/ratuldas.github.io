@@ -137,7 +137,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-03-15
-    date_end: 2022-05-12
+    date_end: 2023-05-12
     summary: |
       - Organized workshops on 3D modeling using SolidWorks.
       - Facilitated hands-on learning and skill development for participants.
